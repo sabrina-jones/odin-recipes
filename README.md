@@ -6,4 +6,3 @@ The website includes a main index page that links to individual recipe pages. Ea
 
 By completing this project, I practiced writing HTML, structuring a multi-page website, and using elements like headings, lists, images, and links.
 
-test
